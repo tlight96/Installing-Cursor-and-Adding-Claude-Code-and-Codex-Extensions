@@ -14,7 +14,7 @@ Further, I started opening Cursor and clicked **Control + Shift + P**, then sear
 
 ## Troubleshooting & Problem Solving
 
-During this setup, I identified some problems and resolved them on my own:
+I ran into a few issues during the setup but managed to fix them myself:
 
-1. **Confusion with the VSIX Command:** At first, I thought I had to use `Control + Shift + P` and search for `Extensions: Install from VSIX...` to find these tools. When I ran into errors trying to find the folder directory on my device, I went back and used the `Extensions: Install Extensions` command instead. This guided me straight to the marketplace search bar, where I discovered the extensions could actually be found directly inside the Cursor app for a quick installation.
-2. **Identifying the Correct Extensions:** When I searched the marketplace, there were many different versions available. I had to carefully look at the details and match them with the instructions to make sure I identified and finished installing the correct, authentic extensions needed for this process.
+1. **Getting confused by the VSIX command:** At first, I thought I had to use the "Install from VSIX..." command to get these extensions onto my device. But when I couldn't find the right folder directory on my computer, I tried the "Extensions: Install Extensions" command instead. That brought up the marketplace search bar, and I realized I could just download them straight from the app without any extra hassle.
+2. **Finding the right versions:** When I typed the names into the search bar, a lot of different versions popped up. I had to look closely at the creator details and double-check them against the instructions to make sure I was installing the actual official extensions.
