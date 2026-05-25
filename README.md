@@ -4,7 +4,7 @@ This is my steps to download Cursor and add additional extensions, and how I ide
 
 _Please note that I do not possess capacity to code. My experience is limited to learning the basics of R program as of now._
 
-The first thing that I did is to search Cursor website on the search engine. I identified the website, https://cursor.com, then downloaded the Windows version of the applicationa for free.
+The first thing that I did is to search Cursor website on the search engine. I identified the website, https://cursor.com, then downloaded the Windows version of the applications for free.
 
 When I installed Cursor, there were some suggestions to upgrade to the paid version. However, these are completely optional, and I could just skip those features.
 
