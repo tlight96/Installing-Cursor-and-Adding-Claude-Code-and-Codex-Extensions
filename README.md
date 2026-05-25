@@ -16,5 +16,5 @@ Further, I started opening Cursor and clicked **Control + Shift + P**, then sear
 
 I ran into a few issues during the setup but managed to fix them myself:
 
-1. **Getting confused by the VSIX command:** At first, I thought I had to use the "Install from VSIX..." command to get these extensions onto my device. But when I couldn't find the right folder directory on my computer, I tried the "Extensions: Install Extensions" command instead. That brought up the marketplace search bar, and I realized I could just download them straight from the app without any extra hassle.
+1. **Getting confused by the VSIX command:** At first, I thought I had to use the "Install from VSIX..." command to get these extensions onto my device. But when I could not find the right folder directory on my computer, I tried the "Extensions: Install Extensions" command instead. That brought up the marketplace search bar, and I realized I could just download them straight from the app without any extra hassle.
 2. **Finding the right versions:** When I typed the names into the search bar, a lot of different versions popped up. I had to look closely at the creator details and double-check them against the instructions to make sure I was installing the actual official extensions.
