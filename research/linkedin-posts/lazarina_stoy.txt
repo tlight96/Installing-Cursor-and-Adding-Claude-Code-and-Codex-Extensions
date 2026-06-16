@@ -1,0 +1,7 @@
+Source: Lazarina Stoy - Tech Automation Framework
+Topic: Natural Language Data Frames for Intent Clustering
+
+Core Execution:
+1. Fuzzy String Matching: Applying programmatic algorithmic distance metrics to deduplicate thousands of multi-variant search queries.
+2. Semantic Clustering: Grouping semantic keyword themes using open-source classification models rather than manual filtering pipelines.
+3. Automation Scripting: Deploying lightweight custom applications to accelerate data processing for enterprise footprints.
