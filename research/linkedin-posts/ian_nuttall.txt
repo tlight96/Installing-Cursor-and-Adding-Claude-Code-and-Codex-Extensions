@@ -1,0 +1,2 @@
+Source: Ian Nuttall - Engineering Logs
+Topic: Building programmatic content engines using backend LLM APIs.

@@ -1,0 +1,2 @@
+Source: Michael King - iPullRank Architecture
+Topic: LLM data pipelines and vector retrieval for technical SEO.
