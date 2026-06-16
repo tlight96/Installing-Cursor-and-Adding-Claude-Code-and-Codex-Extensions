@@ -18,3 +18,16 @@ I ran into a few issues during the setup but managed to fix them myself:
 
 1. **Getting confused by the VSIX command:** At first, I thought I had to use the "Install from VSIX..." command to get these extensions onto my device. But when I could not find the right folder directory on my computer, I tried the "Extensions: Install Extensions" command instead. That brought up the marketplace search bar, and I realized I could just download them straight from the app without any extra hassle.
 2. **Finding the right versions:** When I typed the names into the search bar, a lot of different versions popped up. I had to look closely at the creator details and double-check them against the instructions to make sure I was installing the actual official extensions.
+
+
+# [Your Original Step 1 Heading - Installing Cursor & Extensions]
+... (Your memorable installation notes and setup data remain here completely untouched) ...
+
+---
+
+# Phase 2: AI-Powered SEO Content Production Architecture
+
+An automated research engine designed to extract, analyze, and map the production pipelines and algorithmic strategies of ten high-signal programmatic and data-driven SEO operators.
+
+## ── PROJECT STRUCTURE ──
+... (The rest of the Step 2 documentation goes here) ...
