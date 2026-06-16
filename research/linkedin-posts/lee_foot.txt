@@ -1,0 +1,2 @@
+Source: Lee Foot - Python automation profiles
+Topic: Automated web scraping and metric merging arrays.

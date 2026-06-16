@@ -1,0 +1,2 @@
+Source: Nima Jafari - Systems engineering notes
+Topic: CI/CD validation gates and sitemap automation.
