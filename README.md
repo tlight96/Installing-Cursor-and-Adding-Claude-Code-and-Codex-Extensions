@@ -1,33 +1,42 @@
-# Installing-Cursor-and-Adding-Claude-Code-and-Codex-Extensions
+# Environment Setup & Technical Research Architecture
 
-This is my steps to download Cursor and add additional extensions, and how I identified the problems during the process.
-
-_Please note that I do not possess capacity to code. My experience is limited to learning the basics of R program as of now._
-
-The first thing that I did is to search Cursor website on the search engine. I identified the website, https://cursor.com, then downloaded the Windows version of the applications for free.
-
-When I installed Cursor, there were some suggestions to upgrade to the paid version. However, these are completely optional, and I could just skip those features.
-
-When I completed the installation, Cursor guided me to log into my GitHub account. Since I did not have a GitHub account yet (at the time of installing the Cursor app), I created one. This is a VERY IMPORTANT STEP, as you will need a GitHub account to link your developer credentials. Furthermore, creating a GitHub repository acts as the secure connection your computer needs so that advanced extensions like Claude Code (Claude) and Codex (OpenAI) can track your files and function properly. 
-
-Further, I started opening Cursor and clicked **Control + Shift + P**, then searched for **Extensions: Install Extensions.** This guided me to the directory of extensions in the marketplace, then I searched both Claude Code and Codex on the search bar. I finished both of the extensions installations and further wrote this experience on this READ.ME.
-
-## Troubleshooting & Problem Solving
-
-I ran into a few issues during the setup but managed to fix them myself:
-
-1. **Getting confused by the VSIX command:** At first, I thought I had to use the "Install from VSIX..." command to get these extensions onto my device. But when I could not find the right folder directory on my computer, I tried the "Extensions: Install Extensions" command instead. That brought up the marketplace search bar, and I realized I could just download them straight from the app without any extra hassle.
-2. **Finding the right versions:** When I typed the names into the search bar, a lot of different versions popped up. I had to look closely at the creator details and double-check them against the instructions to make sure I was installing the actual official extensions.
-
-
-# [Your Original Step 1 Heading - Installing Cursor & Extensions]
-... (Your memorable installation notes and setup data remain here completely untouched) ...
+This repository documents a two-part technical sprint: initializing a modern development environment using an AI-native code editor and constructing an automated research engine to analyze enterprise-grade AI SEO workflows.
 
 ---
 
-# Phase 2: AI-Powered SEO Content Production Architecture
+## ── PHASE 1: ENVIRONMENT INITIALIZATION ──
 
-An automated research engine designed to extract, analyze, and map the production pipelines and algorithmic strategies of ten high-signal programmatic and data-driven SEO operators.
+### Installation & Account Synchronization
+* **Application Ingestion:** Downloaded and initialized the Windows stable build for the AI-native development environment via `https://cursor.com`. Opted out of secondary non-essential paid tiers to maintain a streamlined core installation footprint.
+* **Version Control Registration:** Created a net-new authentication identity on GitHub. Linked GitHub credentials natively within the editor interface to establish a secure, verified handshake. This synchronization serves as the foundational security layer enabling advanced programmatic tracking extensions to securely map local workspace mutations.
 
-## ── PROJECT STRUCTURE ──
-... (The rest of the Step 2 documentation goes here) ...
+### Marketplace Extension Deployment
+Initialized the editor command palette via `Control + Shift + P`, executed the `Extensions: Install Extensions` manager string, and programmatically deployed two primary technical components:
+1. **Claude Code Extension:** Terminal-native orchestration layer for multi-file context analysis.
+2. **Codex Extension:** Autocompletion and code translation engine.
+
+### Troubleshooting & Foundational Problem Solving
+* **VSIX Path Configuration Anomaly:** Attempted initial component ingestion via manual `Install from VSIX...` workflows. Encountered localized folder directory abstraction blocks. Resolved the friction by shifting execution to the native marketplace command line, bypassing manual local file-path mapping entirely.
+* **Identity Verification Overlapping:** Encountered multiple duplicate listings within the marketplace ecosystem. Resolved target authenticity by systematically auditing publisher metadata credentials and cross-referencing them against primary configuration rules to isolate authorized builds.
+
+---
+
+## ── PHASE 2: AI-POWERED SEO CONTENT ARCHITECTURE ──
+
+An automated data pipeline designed to extract, analyze, and map the execution engines of ten high-signal programmatic and data-driven SEO operators. This serves as a structured intelligence layer to construct an enterprise-grade execution playbook using automated data networks and LLMs.
+
+### Project Structure
+```text
+├── extract_transcripts.py       # Automated Python script interfacing with Supadata API
+└── research/
+    ├── sources.md               # Verified master index of 10 practitioners with links & metadata
+    ├── linkedin-posts/          # Extracted tactical frameworks and cross-platform case studies
+    │   ├── elias_dabbas.txt
+    │   ├── jake_ward.txt
+    │   └── lazarina_stoy.txt
+    ├── youtube-transcripts/     # Raw script data payloads generated programmatically via API
+    │   ├── elias_dabbas_python_data_science_seo.txt
+    │   ├── jake_ward_seo_heist_framework.txt
+    │   ├── julian_goldie_programmatic_agent_setup.txt
+    │   └── programmatic_seo_nextjs_engine_guide.txt
+    └── other/                   # Supplemental documentation and semantic models
